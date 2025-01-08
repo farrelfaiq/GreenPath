@@ -1,5 +1,5 @@
 # GreenPath
-## Sistem Rekomendasi Tanaman Menggunakan Deep Learning
+## Sistem Rekomendasi Tanaman Menggunakan Deep Learning FNN
 
 Sistem Rekomendasi Tanaman adalah aplikasi berbasis deep learning yang memberikan rekomendasi tanaman yang cocok berdasarkan berbagai kondisi lingkungan dan tanah. Sistem ini bertujuan untuk membantu petani dan profesional pertanian dalam mengambil keputusan yang lebih tepat mengenai pemilihan tanaman, mengoptimalkan hasil panen, dan memaksimalkan keuntungan. Sistem ini memperhitungkan beberapa faktor seperti jenis tanah, iklim, curah hujan, suhu, kelembapan, pH tanah, dan kandungan nitrogen, fosfor, serta kalium untuk menentukan tanaman yang paling sesuai untuk suatu wilayah. Dengan menganalisis data historis dan menggunakan model prediktif, sistem ini memberikan rekomendasi yang dipersonalisasi sesuai dengan kondisi spesifik lahan atau area pertanian.
 
