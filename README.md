@@ -26,5 +26,5 @@ Sistem Rekomendasi Tanaman adalah aplikasi berbasis deep learning yang memberika
 - Pengembangan aplikasi mobile untuk akses yang lebih mudah di smartphone dan tablet.
 - Integrasi umpan balik pengguna dan pengumpulan data untuk terus meningkatkan kinerja sistem rekomendasi.
 
-## Penggunaan 
+## Akses Program
 Streamlit : https://greenpath.streamlit.app/
