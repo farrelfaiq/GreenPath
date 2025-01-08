@@ -19,3 +19,9 @@ Sistem Rekomendasi Tanaman adalah aplikasi berbasis deep learning yang memberika
 - Streamlit: Framework open-source yang digunakan untuk membangun antarmuka pengguna (UI) interaktif untuk aplikasi data science. Framework ini dirancang khusus untuk mempermudah pengembangan aplikasi web dengan menggunakan Python.
 - HTML/CSS: Bahasa markup dan styling yang digunakan untuk merancang antarmuka web.
 - JavaScript: Bahasa scripting yang digunakan untuk interaksi sisi klien dan meningkatkan antarmuka pengguna.
+
+## Pengembangan di Masa Depan
+- Integrasi data cuaca real-time untuk meningkatkan akurasi rekomendasi.
+- Incorporasi harga pasar tanaman dan analisis profitabilitas untuk membantu petani dalam membuat keputusan ekonomi yang layak.
+- Pengembangan aplikasi mobile untuk akses yang lebih mudah di smartphone dan tablet.
+- Integrasi umpan balik pengguna dan pengumpulan data untuk terus meningkatkan kinerja sistem rekomendasi.
