@@ -40,6 +40,8 @@ if st.button("Prediksi"):
 
     # Display results
     st.success(f"Tanaman yang disarankan: {predicted_crop}")
+    print(f"Image URL: {image_url}")
     st.image(image_url, caption=predicted_crop)
+
 
 # Run the app using `streamlit run <filename>.py`
